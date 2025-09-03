@@ -1,4 +1,4 @@
-package com.my.securityTest.Entity;
+package com.my.securityTest.entity;
 
 import com.my.securityTest.dto.UserRole;
 import jakarta.persistence.*;
